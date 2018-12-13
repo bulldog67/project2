@@ -1,0 +1,18 @@
+/*
+Theme Name: Twenty Seventeen Child Theme
+Theme URI:
+Description: A child theme of Twenty Seventeen
+Author: <William Sugden>
+Author URI: <William Sugden>
+Template: twentyseventeen
+Version: 0.1.0
+*/
+
+p{  color:pink;
+    
+}
+
+.entry-title {
+
+   display: none;
+}
